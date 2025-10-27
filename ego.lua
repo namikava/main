@@ -21,7 +21,7 @@
 		shouldTween = false
 		SoulGuitar = false
 		KenTest = true
-		debug = true
+		debug = false
 		Brazier1 = false
 		Brazier2 = false
 		Brazier3 = false
